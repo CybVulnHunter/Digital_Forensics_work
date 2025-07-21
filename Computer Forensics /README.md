@@ -20,31 +20,6 @@ If you're looking for trustworthy tools and learning materials in digital forens
 - Open-source and free-to-use resources.
 - Continuously updated and community-driven.
 
-<br>
-  * [Distributions](#-distributions)
-  * [Frameworks](#-frameworks)
-  * [Memory Forensics](#-memory-forensics)
-  * [Network Forensics](#-network-forensics)
-  * [Live Forensics](#-live-forensics)
-  * [IOC Scanner](#-ioc-scanner)
-  * [Imaging](#-imaging)
-  * [Windows Artifacts](#-windows-artifacts)
-  * [OS X Forensics](#-os-x-forensics)
-  * [Mobile Forensics](#-mobile-forensics)
-  * [Docker Forensics](#%EF%B8%8F-docker-forensics)
-  * [Picture Analysis](#-picture-analysis)
-  * [Metadata Forensics](#-metadata-forensics)
-  * [Steganography](#-steganography)
-  * [Management](#-management)
-  * [Decryption](#-decryption)
-  * [Disk image handling](#-disk-image-handling)
-  * [Resources](#-resources)
-
----
-![forensics tools](<img width="3142" height="5034" alt="forensics" src="https://github.com/user-attachments/assets/2ce37b89-930b-470d-8b2e-b68d3b645eff" />
-)
-
----
 
 ## 📟 Distributions
 | Name  | Descriptions | Download | 
