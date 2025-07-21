@@ -7,19 +7,11 @@
 [![MIT License](https://img.shields.io/badge/License-MIT-blue)](#license)  
 [![Open Issues](https://img.shields.io/github/issues/xiosec/Computer-forensics)](https://github.com/xiosec/Computer-forensics/issues)
 
----
-
 ## 🧰 About This Repository
 
 This repository is a handpicked collection of free and powerful tools, frameworks, and documentation for conducting forensic investigations on digital systems. It’s designed to help analysts, cybersecurity professionals, and students perform deep analysis of digital evidence across Windows, Linux, and memory systems.
 
 If you're looking for trustworthy tools and learning materials in digital forensics, you're in the right place.
-
----
-
-<img align="right" width="350" src="https://github.com/user-attachments/assets/b1e2e520-b21f-4ad1-8f4f-f890f705d691" alt="Digital Forensics Image"/>
-
----
 
 ## 📂 Key Features
 
@@ -27,6 +19,7 @@ If you're looking for trustworthy tools and learning materials in digital forens
 - Focus on Windows and memory forensics.
 - Open-source and free-to-use resources.
 - Continuously updated and community-driven.
+
 
 <br>
 * [Computer Forensics](https://github.com/xiosec/Computer-forensics)
