@@ -1,14 +1,33 @@
-# 🕵️‍♂️ Computer Forensics 
-[![xiosec - Computer-forensics](https://img.shields.io/static/v1?label=xiosec&message=Computer-forensics&color=blue&logo=github)](https://github.com/xiosec/Computer-forensics)
-[![stars - Computer-forensics](https://img.shields.io/github/stars/xiosec/Computer-forensics?style=social)](https://github.com/xiosec/Computer-forensics)
-[![forks - Computer-forensics](https://img.shields.io/github/forks/xiosec/Computer-forensics?style=social)](https://github.com/xiosec/Computer-forensics)
-[![GitHub tag](https://img.shields.io/github/tag/xiosec/Computer-forensics?include_prereleases=&sort=semver)](https://github.com/xiosec/Computer-forensics/releases/)
-[![License](https://img.shields.io/badge/License-MIT-blue)](#license)
-[![issues - Computer-forensics](https://img.shields.io/github/issues/xiosec/Computer-forensics)](https://github.com/xiosec/Computer-forensics/issues)
+# 🕵️ Computer Forensics Toolkit
 
-Curated list of awesome free forensic analysis tools and resources.
-<a href="#license"><img align="right" src="<img width="1232" height="924" alt="image" src="https://github.com/user-attachments/assets/b1e2e520-b21f-4ad1-8f4f-f890f705d691" />
-"></a>
+[![Maintainer - CybVulnHunter](https://img.shields.io/static/v1?label=CybVulnHunter&message=Computer-Forensics&color=blue&logo=github)](https://github.com/CybVulnHunter)  
+[![GitHub Stars](https://img.shields.io/github/stars/xiosec/Computer-forensics?style=social)](https://github.com/xiosec/Computer-forensics)  
+[![GitHub Forks](https://img.shields.io/github/forks/xiosec/Computer-forensics?style=social)](https://github.com/xiosec/Computer-forensics)  
+[![Latest Release](https://img.shields.io/github/tag/xiosec/Computer-forensics?include_prereleases=&sort=semver)](https://github.com/xiosec/Computer-forensics/releases/)  
+[![MIT License](https://img.shields.io/badge/License-MIT-blue)](#license)  
+[![Open Issues](https://img.shields.io/github/issues/xiosec/Computer-forensics)](https://github.com/xiosec/Computer-forensics/issues)
+
+---
+
+## 🧰 About This Repository
+
+This repository is a handpicked collection of free and powerful tools, frameworks, and documentation for conducting forensic investigations on digital systems. It’s designed to help analysts, cybersecurity professionals, and students perform deep analysis of digital evidence across Windows, Linux, and memory systems.
+
+If you're looking for trustworthy tools and learning materials in digital forensics, you're in the right place.
+
+---
+
+<img align="right" width="350" src="https://github.com/user-attachments/assets/b1e2e520-b21f-4ad1-8f4f-f890f705d691" alt="Digital Forensics Image"/>
+
+---
+
+## 📂 Key Features
+
+- Organized list of reliable forensic tools.
+- Focus on Windows and memory forensics.
+- Open-source and free-to-use resources.
+- Continuously updated and community-driven.
+
 <br>
 * [Computer Forensics](https://github.com/xiosec/Computer-forensics)
   * [Distributions](#-distributions)
