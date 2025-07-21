@@ -20,9 +20,7 @@ If you're looking for trustworthy tools and learning materials in digital forens
 - Open-source and free-to-use resources.
 - Continuously updated and community-driven.
 
-
 <br>
-* [Computer Forensics](https://github.com/xiosec/Computer-forensics)
   * [Distributions](#-distributions)
   * [Frameworks](#-frameworks)
   * [Memory Forensics](#-memory-forensics)
